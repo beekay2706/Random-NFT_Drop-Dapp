@@ -1,0 +1,9 @@
+{
+    "name": "Smokey Piggy",
+    "symbol": "sp",
+    "image": "0.png",
+    "properties": {
+        "files": [{"url": "0.png","type": "image/png" } ],
+        "creators": [ { "address" : "3oTqdmftoqdMooZdTMfDCJZwY4XmzkC6yYqmJZuXyKjL", "share": 100 } ]
+    }
+}

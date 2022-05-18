@@ -1,0 +1,10 @@
+
+   {
+     "name": "cat_illusion",
+    "symbol": "ci",
+    "image": "1.png",
+    "properties": {
+        "files": [{"url": "1.png","type": "image/png" } ],
+        "creators": [ { "address" : "3oTqdmftoqdMooZdTMfDCJZwY4XmzkC6yYqmJZuXyKjL", "share": 100 } ]
+    }
+}
